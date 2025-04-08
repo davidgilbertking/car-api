@@ -100,8 +100,11 @@ curl -X POST -H "Content-Type: application/json" \
 
 ## Database Dump
 
-To restore the database from a dump file:
+You can restore the database using the following SQL dump:
 
+📥 [Download car_catalog_dump.sql from Yandex Disk](https://disk.yandex.ru/d/crUmyloISR0LNw)
+
+To import the dump, run the following command:
 ```bash
 psql -U <username> -d car_catalog -f car_catalog_dump.sql
 ```
