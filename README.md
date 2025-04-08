@@ -23,7 +23,7 @@ This API is designed to manage cars, configurations, options, and pricing. It in
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/davidgilbertking/car-api.git
 cd car-api
 ```
 
