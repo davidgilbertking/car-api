@@ -21,3 +21,9 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/storage/logs
+/storage/framework
+/storage/api-docs
+*.sqlite
+*.sql
+.DS_Store
